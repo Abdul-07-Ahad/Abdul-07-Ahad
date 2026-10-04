@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Abdul Ahad 👋
 
-<!--
-**Abdul-07-Ahad/Abdul-07-Ahad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineering Student | Machine Learning | Deep Learning | DevOps
 
-Here are some ideas to get you started:
+I'm an AI Engineering student interested in building practical AI/ML applications and learning how to take projects from development to deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I'm Learning
+
+* Python & C++
+* Machine Learning
+* Deep Learning & Neural Networks
+* AI/LLM Applications
+* Git & GitHub
+* Docker & PostgreSQL
+* CI/CD and DevOps
+* MLOps
+
+### 🚀 Projects
+
+**🏠 House Price Prediction**
+Machine learning project developed into a web application, with Docker and PostgreSQL integration.
+
+**🤖 AI Sentiment API**
+An AI/ML API project focused on serving model predictions through an API.
+
+**🔧 GitHub Learning & DevOps**
+Hands-on practice with Git, GitHub, branching, merging, SSH, Docker and CI/CD concepts.
+
+### 🎯 Currently Working On
+
+Building practical AI engineering projects and developing my skills in ML, LLM applications, Docker, DevOps and MLOps.
+
+### 📫 Connect With Me
+
+* GitHub: [Abdul-07-Ahad](https://github.com/Abdul-07-Ahad)
